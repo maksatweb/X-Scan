@@ -2,7 +2,7 @@
 
 # X-Scan
 **EN**  
-This script lets you find hidden files belonging to the attacker
+This script lets you find hidden files belonging to the attacker.
 It is even possible to trace an embedded image of an executable code.
 
 **ID**  
