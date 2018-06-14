@@ -26,3 +26,7 @@ Bahkan memungkinkan untuk melacak gambar yang tertanam kode yang bisa dieksekusi
 
 ## Media Review
 - Adewa Official - <a href="http://adewa-official.blogspot.co.id/2018/03/cara-menemukan-suatu-backdoor-pada-web.html">http://adewa-official.blogspot.co.id/2018/03/cara-menemukan-suatu-backdoor-pada-web.html</a>
+
+## Credits
+<b>Look For Bad Guy</b>
+(https://pastebin.com/puX6Up0w)
